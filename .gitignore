@@ -121,3 +121,5 @@ logs/
 # Keep your FYP dataset in Git for now.
 # If the dataset becomes too large, consider
 # Git LFS or another storage method later.
+*.csv
+*.xlsx
